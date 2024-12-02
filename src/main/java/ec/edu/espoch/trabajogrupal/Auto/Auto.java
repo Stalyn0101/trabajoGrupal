@@ -62,7 +62,7 @@ public class Auto {
         this.Motor = Motor;
     }
 
-    public TipoCombus getTipoCombus() {
+s    public TipoCombus getTipoCombus() {
         return tipoCombus;
     }
 
